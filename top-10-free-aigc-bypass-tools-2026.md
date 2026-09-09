@@ -2,7 +2,8 @@
 
 看着查重系统里满屏刺眼的飘红，是不是感觉天都塌了？明明每一个字都是自己熬夜敲出来的，却被AI判定为生成内容。现在审核机制越来越严苛，如果找不到合适的降ai率方法，连最后的过审资格都会被死死卡住。
 
-Image
+<img width="594" height="594" alt="image" src="https://github.com/user-attachments/assets/cd7236a5-606c-47b8-8e67-dc8d6f42c2f6" />
+
 为了帮大家避雷，我实测了市面上十几款降ai率工具，整理出这份包含10个工具的实测红黑榜，顺带分享几个压箱底的免费降ai率小技巧。别慌，往下看，总有一款能救你于水火。
 
 ## 【避坑指南】为什么你拼命换词，疑似度还是纹丝不动？
@@ -16,23 +17,29 @@ AI写的文章通常完美但极其乏味：喜欢用“首先……其次……
 ## ⭐ 1. 笔灵降AI ： 格式与专业度双保的救星（首推）
 👉 **传送门**：https://ibiling.cn/paper-pass?from=dealmoonjiangai0901zs（建议复制链接到电脑浏览器打开体验更佳！）
 
-Image
+<img width="1101" height="631" alt="image" src="https://github.com/user-attachments/assets/a9a5c6d4-8a50-4221-9d54-67478a1d408e" />
+
 **实测体验**： 这是我这半个月测下来综合表现最稳、也是我自己目前留在收藏夹吃灰最少的一款。之前一份长达万字、排版极其复杂的行业分析报告，疑似度高达58%，经它优化后直接降低到了7%以下，效果一次到位，根本不需要我反复去微调。
 
-Image
+<img width="1280" height="1088" alt="image" src="https://github.com/user-attachments/assets/9cb6b957-4770-4e82-a8e4-b0bedc8cbc56" />
+
 最让我惊喜的是它能保留原格式。很多工具改完后目录乱飞、脚注消失，排版还得重来，折磨死人。但把带有复杂图表和引用的Word文档丢进笔灵，下载出来的修改稿排版完全没变，改完直接就能用！
 
-Image
+<img width="1019" height="436" alt="image" src="https://github.com/user-attachments/assets/8f5860d9-02e2-4d31-9c90-053759fc2dc7" />
+
 另外，它的文本处理非常专业，没有出现把行话改成大白话的口语化问题，整体表述非常严谨。同时，降完之后，字数变化严格控制在了1000字以内，不会出现字数暴增或暴跌的尴尬。
 
-Image
+<img width="1029" height="353" alt="image" src="https://github.com/user-attachments/assets/a5f9893e-3a54-4a94-aa0d-2d2ad7a6e5f8" />
+
 价格方面大概是3元/千字，对比市面上动辄七八块的工具便宜了一半，对预算有限的打工人非常友好。真要说缺点，可能就是晚上高峰期偶尔需要稍微排队两分钟，但为了保住格式，这点等待完全值得。
 
-Image
+<img width="850" height="200" alt="image" src="https://github.com/user-attachments/assets/b60b4a5b-1fd6-447f-acf1-166ac95cb391" />
+
 ## ⭐ 2. QuillBot： 外语工具，中文稍显水土不服
 👉 **传送门**：https://quillbot.com/
 
-Image
+<img width="1280" height="595" alt="image" src="https://github.com/user-attachments/assets/70e54b0d-f1db-46cc-93fd-492bd276ee41" />
+
 **实测体验**：
 
 如果你写的是纯英文稿件，用它做ai降ai绝对是神器。开启高级模式后，英文句式会被调整得非常地道。
@@ -44,7 +51,8 @@ Image
 ## ⭐ 3. 茅茅虫：细粒度替换快，但容易改变原意
 **传送门**：https://bing.mymmc.cn/?msclkid=69db067e13341e53e22a6c354a4d9e50
 
-Image
+<img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/f68d5fde-4697-4d80-a5c9-a7823c9a653c" />
+
 **实测体验**：
 
 这款工具在文案圈挺有名的。我拿了一篇理论分析类的文章去测，它的同义词库很庞大，替换速度极快。
@@ -56,7 +64,8 @@ Image
 ## ⭐ 4. 写作狗：基础润色不错，深度降重略显不足
 👉 **传送门**：https://www.xiezuodog.com/
 
-Image
+<img width="1280" height="710" alt="image" src="https://github.com/user-attachments/assets/44c00ee4-54cb-4217-b8d2-7aed57e7bf27" />
+
 **实测体验**：
 
 主打一个操作轻量化。我用它处理过几篇日常汇报材料，它在理顺语句、修改错别字方面的表现可圈可点。
@@ -68,7 +77,8 @@ Image
 ## ⭐ 5. 通用AI工具（如DeepSeek/Kimi等）：吃提示词，发挥极其不稳定
 **传送门**： （各大模型网站）
 
-Image
+<img width="1224" height="1191" alt="image" src="https://github.com/user-attachments/assets/098525e7-b2d3-4740-8492-3389a0679de8" />
+
 **实测体验**：
 
 很多人喜欢直接把大段文字扔给Kimi或者DeepSeek，指望它们能当现成的aigc免费降重工具。我也试过，直接输入“帮我降低疑似度”，结果生成的文本AI味更浓了。后来写了长达几百字的复杂提示词去限制语气，效果才好了些。
@@ -80,7 +90,8 @@ Image
 ## ⭐ 6. 火龙果写作：界面舒适，适合最终通读排错
 👉 **传送门**：http://www.mypitaya.com
 
-Image
+<img width="1280" height="629" alt="image" src="https://github.com/user-attachments/assets/0eee1d5d-26fc-4fcd-b6bd-3fca9704ead3" />
+
 **实测体验**：
 
 界面设计清爽无广，日常用它找语病和错别字一找一个准。
@@ -92,7 +103,8 @@ Image
 ## ⭐ 7. PaperPass：检测极严，但修改建议过于保守
 👉 **传送门**：https://www.paperpass.com/
 
-Image
+<img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/ee65663c-a8f4-454d-89ac-b00d08d1fe9b" />
+
 **实测体验**：
 
 老牌查重平台了。它自带的修改建议我试过几次，检测确实精准，高危区标得清清楚楚。
@@ -104,7 +116,8 @@ Image
 ## ⭐ 8. PaperYY：价格触底，但排版真的是玄学
 **传送门**：https://www.paperyy.com/
 
-Image
+<img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/d01177c5-883e-4fc8-bcd2-a6726bce8bcd" />
+
 **实测体验**：
 
 主打一个极致性价比，预算吃紧选它没错。
@@ -116,7 +129,8 @@ Image
 ## ⭐ 9. PaperRed ： 风险评估细致，偶有吞注释现象
 **传送门**：https://www.paperred.com/
 
-Image
+<img width="1280" height="732" alt="image" src="https://github.com/user-attachments/assets/133fd874-5d14-4496-91ae-8e3862bf9880" />
+
 **实测体验**：
 
 特色在于会给你一份非常详尽的风险评估报告。处理长篇大论时，保留原意的能力不错。
@@ -128,7 +142,8 @@ Image
 ## ⭐ 10. 嘎嘎降AI ：简单粗暴，但过渡略显生硬
 **传送门**：https://www.aigcleaner.com
 
-Image
+<img width="1141" height="450" alt="image" src="https://github.com/user-attachments/assets/21a6bce6-91b0-4a17-8ef6-e83d0d41e0a3" />
+
 **实测体验**：
 
 名字听起来很随便，操作也很直接，上传后几分钟出结果。但在细读修改后的文本时，我发现有些过渡句被改得非常生硬，上下文衔接缺乏逻辑，读起来有点像拼凑的。这就需要下载后，自己再去通读顺一遍逻辑。用于紧急提升文本原创度可以一用，但文字质感欠佳。
