@@ -2,7 +2,8 @@
 
 熬了几个大夜赶出来的汇报材料，提交质检时却因用词太规范被系统直接打回，这就很让人抓狂。为了快速提升文稿的原创度，我几乎翻遍了市面上的免费降ai率工具，结果交了不少智商税。
 
-Image
+<img width="711" height="699" alt="image" src="https://github.com/user-attachments/assets/021257e4-cc9e-40f2-a4f4-8a19cab45269" />
+
 今天我不讲虚的，直接把我自己摸索出来的免费降低ai率手法，以及实测避坑后的降ai率工具清单交个底，希望能帮你省点掉头发的时间。
 
 ## 一、 纯手工打磨：4个不花钱的优化习惯
@@ -30,7 +31,8 @@ AI给出的结论往往是大而全且绝对的。我们可以加上一些带有
 ## 1.通用AI工具 (DeepSeek为主)
 **传送门**：https://chat.deepseek.com/
 
-Image
+<img width="1280" height="696" alt="image" src="https://github.com/user-attachments/assets/334cbe5e-25dc-44e9-8e3d-cac1da1beaa5" />
+
 **真实体验**：
 
 它的响应速度极快，文本连贯性也很好。但我踩过的坑是，它在处理专业性极强的段落时，太容易自由发挥了。有时候为了让句子通顺，它会自作主张地把你的核心专有名词给替换掉，甚至脑补出一些你原本没写的前提条件。
@@ -42,18 +44,22 @@ Image
 ## 2.笔灵降AI（主力自用款）
 **传送门**：https://ibiling.cn/paper-pass?from=githubjiangai0901zs（建议复制链接到电脑浏览器打开体验更佳！）
 
-Image
+<img width="1101" height="631" alt="image" src="https://github.com/user-attachments/assets/308a89a5-631b-4c15-9e0b-ebe500c02794" />
+
 **真实体验**：
 
 遇到带复杂图表和目录的长篇材料，我基本都会直接丢给它。它的ai降ai效果极佳，基本能一步到位，免去了反复调整的烦恼。
 
-Image
+<img width="1280" height="1088" alt="image" src="https://github.com/user-attachments/assets/2a3b3c22-2243-4ca4-9602-e740b64d72ed" />
+
 以前用别的工具，最怕的就是改完格式全乱了。但笔灵在这一点上做得很好，它能保留原格式，连小标题层级和图表位置都原封不动，下载下来直接就能接着用，彻底省去了重新排版的折磨。
 
-Image
+<img width="992" height="342" alt="image" src="https://github.com/user-attachments/assets/b4db9d98-c60a-4714-b5fb-74a3dc397a5e" />
+
 在文风把控上，它修改后的文本依然保持着高度的专业感，不会出现那种为了降绿而强行口语化的问题。处理完后，字数绝对不会暴增或暴减，变化基本能控制在1000字以内，版面非常稳定。
 
-Image
+<img width="1029" height="353" alt="image" src="https://github.com/user-attachments/assets/92f57f61-c76b-413d-8d78-c1ccc6a0665d" />
+
 价格大概是3元/千字，对比市面动辄大几十的收费，性价比直接拉满。
 
 ## 3.QuillBot
@@ -61,7 +67,8 @@ Image
 
 **传送门**：https://quillbot.com/
 
-Image
+<img width="1280" height="595" alt="image" src="https://github.com/user-attachments/assets/6e0a622b-88f9-47c7-9a75-305d873751c1" />
+
 **真实体验**：
 
 在处理英文时它如鱼得水，但我曾尝试用它来处理纯中文的文稿，结果就有些差强人意了。面对中文复杂的偏正短语和递进关系，它有时候抓不住句子的核心逻辑，导致改出来的中文句子有一种很别扭的翻译腔。
@@ -75,7 +82,8 @@ Image
 
 **传送门**：https://bing.mymmc.cn/?msclkid=69db067e13341e53e22a6c354a4d9e50
 
-Image
+<img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/8a2dfa5f-1dfb-49d7-ab67-0679318f6bd4" />
+
 **真实体验**：
 
 它的处理效率尚可，作为aigc免费降重的辅助手段还行。但在实测中我发现，它在遇到生僻专业名词时偶尔会有些生硬。为了优化文本表达质量，它有时会把专有名词强行替换成近义词，导致那句话在原有语境下显得很不专业。
@@ -89,7 +97,8 @@ Image
 
 **传送门**：https://www.aigcleaner.com
 
-Image
+<img width="1141" height="450" alt="image" src="https://github.com/user-attachments/assets/5dc02575-e277-43d5-b69b-20053c9cb312" />
+
 **真实体验**：
 
 这种透明的对比界面确实让人放心。不过在深度体验时，我发现它在拆分和重组长难句时，偶尔会显得有些力不从心。有些句子被它处理后，前后的逻辑衔接稍微欠缺了一点流畅度，读起来略显生硬，不够丝滑。
