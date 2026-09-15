@@ -7,15 +7,18 @@
 ## 笔灵降AI
 **传送门**：https://u.ibiling.cn/QUrXih（建议复制链接到电脑浏览器打开体验更佳！）
 
-Image
+<img width="1101" height="631" alt="image" src="https://github.com/user-attachments/assets/7e196c31-0ce7-45b9-92a9-6f060a893452" />
+
 **实测感受**：
 
 这款是我用下来综合体验最稳的。当时手头有篇两万字的长稿，AIGC值卡在80%死活下不来。它最大的优势就是降ai效果极好，不用反复多次调整。丢进去跑了一遍，数值直接大幅降低，文本表达质量也得到了显著提升，那种一步到位的爽感谁懂啊！再也不用来回折腾修改了。
 
-Image
+<img width="1280" height="1088" alt="image" src="https://github.com/user-attachments/assets/3d38e27a-cb50-4419-afbf-afae7f64640d" />
+
 而且，有些aigc免费降重工具改完后字数会少一大截，但用它处理完，字数浮动精准控制在1000字以内。最绝的是它能保留原文档的排版，复杂的脚注和图表原封不动，改完直接就能用，省去了重新排版的大麻烦。
 
-Image
+<img width="1019" height="436" alt="image" src="https://github.com/user-attachments/assets/c30d9c2e-7b3c-4552-bf6f-22512fea8ffd" />
+
 **核心功能**：一步到位优化文本表达与原创度，格式无损保留，表达规范不口语化。
 
 **适合谁用**：不想反复修改、追求高效率直接交稿的人。
@@ -23,7 +26,8 @@ Image
 ## QuillBot
 **传送门**：https://quillbot.com/
 
-Image
+<img width="1280" height="595" alt="image" src="https://github.com/user-attachments/assets/763ee7b0-4de9-47fc-a33f-491d030c0b5c" />
+
 **实测感受**：
 
 有名的外语改写工具。我试着丢了一段全英文段落进去，出来的表达确实地道。但当我把中文稿件放进去，试图用它来体验免费降ai率、优化文本时，还是翻车了。改出来的句子一股机翻味，主谓宾经常倒置，读起来非常拗口。它主要是基于英文语境训练的，对中文复杂语法的理解还是欠缺了一些。
@@ -35,7 +39,8 @@ Image
 ## PaperPass
 **传送门**：https://www.paperpass.com/
 
-Image
+<img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/03e17e7c-8646-4513-a9d3-ce2f97ae7f73" />
+
 **实测感受**：
 
 大家的老熟人了，以前查重复率经常用。这次顺便试了试它的处理功能。用下来感觉它的平台机制偏向保守，主要是做同义词的替换。
@@ -49,7 +54,8 @@ Image
 ## 通用AI工具 (DeepSeek, 豆包, Kimi等)
 **传送门**： （各大模型网站）
 
-Image
+<img width="1224" height="1191" alt="image" src="https://github.com/user-attachments/assets/13a6262e-13f0-4fc0-a8be-f66764ff4ebd" />
+
 **实测感受**：
 
 为了找好用的免费降ai率工具，我专门测试了各大对话大模型。给它们下指令：“请把这段话改得像正常人类写的”。
@@ -63,7 +69,8 @@ Image
 ## 嘎嘎降AI
 **传送门**：https://www.aigcleaner.com
 
-Image
+<img width="1141" height="450" alt="image" src="https://github.com/user-attachments/assets/5f454d3a-2947-40b6-b991-b570eae1f2b8" />
+
 **实测感受**：
 
 界面做得很简洁，操作门槛低。当时看到它提供一定的体验额度，就拿了一篇短稿去试。 它的降ai率效果是有的，处理后数值确实明显降低了，内容原创度也有所改善。
@@ -77,7 +84,8 @@ Image
 ## 火龙果写作
 **传送门**：http://www.mypitaya.com
 
-Image
+<img width="1280" height="629" alt="image" src="https://github.com/user-attachments/assets/04e8f110-3718-48be-b216-4827daa05e7a" />
+
 **实测感受**：
 
 用来做基础的语法纠错和中英互译确实是一把好手。我用它的润色功能跑了一遍稿件，病句少了很多，长难句也理顺了。不过拿去一查，想靠它实现降低ai率的希望落空了，降幅非常有限。因为它主要是为了让句子更通顺、更符合常规语法，而不是专门为了优化文本的垂直工具，更适合作为后期的校对工具。
@@ -89,7 +97,8 @@ Image
 ## SpeedAI
 **传送门**：https://speedai.fun/
 
-Image
+<img width="1280" height="619" alt="image" src="https://github.com/user-attachments/assets/a0254536-4be6-4033-8bba-31e4905c39d7" />
+
 **实测感受**：
 
 主打一个速度快，上传到出结果几分钟搞定，适合临时抱佛脚。仔细对比了一下修改前后的文本，发现它更多是在做浅层的词汇替换，比如把因此换成故而，把提升换成拔高。如果是有更高的原创度要求，只靠这种浅层替换就显得有点力不从心，深层次的语序和逻辑结构基本没动，所以整体的降ai效果相对一般，经不起细看。
@@ -101,7 +110,8 @@ Image
 ## 言笔AI写作
 **传送门**：https://www.yanbiai.com/
 
-Image
+<img width="1280" height="580" alt="image" src="https://github.com/user-attachments/assets/c0127c64-e968-4e13-824b-ee3ddef89e1b" />
+
 **实测感受**：
 
 这款工具的界面设计很有科技感，操作体验比较顺滑。我尝试用它处理了几段综述类的文字，改出来的长难句拆分得有条理，段落过渡也算自然。
@@ -117,5 +127,6 @@ Image
 
 如果你时间紧迫，不想在排版、调字数上反复内耗，想要一步到位直接拿到通顺、专业严谨的定稿，那综合看下来笔灵绝对是目前最优解。它处理效果加上完美保留原格式的设定，真的能省下大把的时间，改完直接拿来用都没问题。
 
-Image
+<img width="1280" height="502" alt="image" src="https://github.com/user-attachments/assets/659972d9-2acc-459d-b129-a21f692eb7c5" />
+
 最后再啰嗦一句，不管用什么辅助工具，定稿前务必自己从头到尾通读一遍，保证逻辑闭环。祝大家的稿件和长文都能一次性顺利通关！
