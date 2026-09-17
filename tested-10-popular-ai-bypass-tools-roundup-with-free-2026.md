@@ -7,7 +7,8 @@
 ## 1️⃣ 通用大模型（以DeepSeek为例）
 **传送门**：https://chat.deepseek.com/
 
-Image
+<img width="1280" height="696" alt="image" src="https://github.com/user-attachments/assets/9dd3f2a1-c2be-4e29-90af-813ddc175ff0" />
+
 很多人的本能反应是直接找大模型去免费降低ai率，毕竟它懂上下文，逻辑强。
 
 **实操感受**：
@@ -17,27 +18,33 @@ Image
 ## 2️⃣ 笔灵降AI
 **传送门**：https://ibiling.cn/paper-pass?from=githubjiangai0901zs（建议复制链接到电脑浏览器打开体验更佳！）
 
-Image
+<img width="1101" height="631" alt="image" src="https://github.com/user-attachments/assets/1774fb8e-4ee9-497e-826b-aac2baf1db2c" />
+
 经过前面各种心酸试错，这款现在成了我应对大体量长文的兜底主力。
 
 实操感受：
 
 它最大的优点就是省心，降ai效果极其稳定，丢进去不需要你反复去调整提示词。
 
-Image
+<img width="1280" height="1088" alt="image" src="https://github.com/user-attachments/assets/2de3121b-26fc-474d-b8d0-0f6c60510b33" />
+
 很多工具改完后，句式会变得特别随意或者口语化，但笔灵改出来的文字非常严谨客观，没有口语化问题，能够轻松hold住严肃类稿件。
 
-Image
+<img width="1063" height="341" alt="image" src="https://github.com/user-attachments/assets/b2fd2af9-19d9-4b8c-9c05-0b5cb08755a9" />
+
 最让我惊喜的是它对原稿的保护。改完后字数基本盘很稳，变化浮动控制在1000字以内，绝不会出现暴增或暴减的情况。而且它能保留原格式，各级标题、表格、引用标号在哪儿还是在哪儿，改完直接就能用，再也不用痛苦地重新排版了。
 
-Image
+<img width="1013" height="527" alt="image" src="https://github.com/user-attachments/assets/774cf399-f8fc-4082-929a-33187cdc5735" />
+
 3元/千字的价格比市面上便宜一半，对预算有限又赶进度的人超级友好。
 
-Image
+<img width="850" height="200" alt="image" src="https://github.com/user-attachments/assets/eeffc235-1a18-4560-9776-1072a1823895" />
+
 ## 3️⃣ QuillBot
 **传送门**：https://quillbot.com/
 
-Image
+<img width="1280" height="595" alt="image" src="https://github.com/user-attachments/assets/73c91efa-8eee-424d-8464-6a721b109e5d" />
+
 如果你手头刚好有涉外的稿件或者需要处理英文内容，这款算是必选。
 
 **实操感受**：
@@ -49,7 +56,8 @@ Image
 ## 4️⃣ SpeedAI
 **传送门**：https://speedai.fun/
 
-Image
+<img width="1280" height="619" alt="image" src="https://github.com/user-attachments/assets/0deb3704-8b58-422b-9650-bc469c14e009" />
+
 主打批量和效率，如果是时间马上截止，需要光速出结果，可以试试它。
 
 **实操感受**：
@@ -61,7 +69,8 @@ Image
 ## 5️⃣ 火龙果写作
 **传送门**：http://www.mypitaya.com
 
-Image
+<img width="1280" height="629" alt="image" src="https://github.com/user-attachments/assets/c37d957e-4b6e-456d-9d96-bb412f07b6a7" />
+
 特色是数据化，在处理前会有一个明确的特征分析，让你心里有个底。
 
 **实操感受**：
@@ -73,7 +82,8 @@ Image
 ## 6️⃣ 言笔AI写作
 **传送门**：https://www.yanbiai.com/
 
-Image
+<img width="1280" height="580" alt="image" src="https://github.com/user-attachments/assets/11baa753-ef05-4f22-8d94-7dddf93f96f4" />
+
 偏向于温柔一刀的类型，主攻语境的通顺与轻度修饰。
 
 **实操感受**：
@@ -85,7 +95,8 @@ Image
 ## 7️⃣ 嘎嘎降AI
 **传送门**：https://www.aigcleaner.com
 
-Image
+<img width="1141" height="450" alt="image" src="https://github.com/user-attachments/assets/121e9df3-13e6-4a08-879e-164f62a92f78" />
+
 在一些交流群里常被提到的平台，适合用来做中期的局部调整。
 
 **实操感受**：
@@ -97,7 +108,8 @@ Image
 ## 8️⃣ 青禾AI
 **传送门**：https://check.paperqq.cn/
 
-Image
+<img width="1280" height="619" alt="image" src="https://github.com/user-attachments/assets/36ba0cd5-d30f-4cd5-8df2-14762b2ca896" />
+
 页面极其干净，集成了一大堆文字处理模块，像个百宝箱。
 
 **实操感受**：
@@ -109,7 +121,8 @@ Image
 ## 9️⃣ 神降笔
 **传送门**：https://www.shenjiangbi.com/
 
-Image
+<img width="1280" height="634" alt="image" src="https://github.com/user-attachments/assets/dc19ec12-17ac-4e2d-b29a-f11509684d2d" />
+
 算是老面孔出的新模块，界面排版要求挺高，看着很规范。
 
 **实操感受**：
@@ -119,7 +132,8 @@ Image
 ## 🔟 PaperYY
 **传送门**：https://www.paperyy.com/
 
-Image
+<img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/85cb2cad-6d11-4a5a-92ca-3b09949cbf88" />
+
 很多老玩家电脑收藏夹里都有的平台，现在也跟进了降痕迹功能。
 
 **实操感受**：
@@ -127,7 +141,8 @@ Image
 操作门槛极低，基本上属于傻瓜式一键搞定。不过在处理文字这块，它依然带有以前查重时代的那种硬核感。改出来的部分词汇会显得过于冷僻或生硬，不够自然。对于要求极高的严谨稿件，这种修改反而容易弄巧成拙，更适合用来做边缘素材的快速处理。
 
 ## 👉 总结与工具一览图
-Image
+<img width="1280" height="515" alt="image" src="https://github.com/user-attachments/assets/6e9f6ea8-c4d2-4039-b0b3-d50f63227c07" />
+
 最后给大家一句劝：别过度迷信市面上五花八门的宣传。
 
 最稳妥的打法是：
