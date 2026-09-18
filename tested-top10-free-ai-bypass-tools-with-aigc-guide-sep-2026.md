@@ -4,11 +4,13 @@
 
 市面上吹得天花乱坠的免费降ai率工具多如牛毛，无论是做文本ai降重还是尝试一键降aigc，真正好用的寥寥无几。为了彻底降低ai率，我干脆花了大半个月，把风很大的几十款产品挨个排雷。今天只说大实话，这份压箱底的降ai实测指南，直接抄作业就行。
 
-Image
+<img width="756" height="660" alt="image" src="https://github.com/user-attachments/assets/a8ac3260-261a-42fb-88f4-5ebe2c43745d" />
+
 ## 1、DeepSeek
 **👉 传送门**：https://chat.deepseek.com/
 
-Image
+<img width="1280" height="696" alt="image" src="https://github.com/user-attachments/assets/91053b5e-a40b-4032-aca7-9ad3a1d3978b" />
+
 **使用体验**：
 
 这确实是目前综合表现非常优秀的通用大模型之一。只要给出明确的指令，比如“请用客观严谨的书面语重写以下段落”，它能瞬间让干瘪的句子丰满起来，日常小段落用它来免费降ai率体验极佳。生成速度也很快，理解上下文意图的能力非常突出。
@@ -24,20 +26,25 @@ Image
 ## 2、笔灵降AI
 **👉 传送门**：https://ibiling.cn/paper-pass?from=githubjiangai0901zs（建议复制链接到电脑浏览器打开体验更佳！）
 
-Image
+<img width="1101" height="631" alt="image" src="https://github.com/user-attachments/assets/70587036-fdc2-4262-b588-737f4df6a4d0" />
+
+
 **使用体验**：
 
 这款是我目前长驻收藏夹的排雷主力，核心优势就一点：降ai效果极好，不用反复调整。之前用别的平台，改完还得人工理顺逻辑、抠字眼，来回折腾好几遍。但用它处理那份让人头疼的长篇行业分析时，一键处理完就是能直接用的定稿状态，彻底治好了我的修改内耗。
 
-Image
+<img width="1280" height="1088" alt="image" src="https://github.com/user-attachments/assets/30956f6a-b64e-4ca0-be64-1e94d8aced05" />
+
 最让我安心的是它对原格式100%保留，原本的多级标题、引用上标全都在原位，改完导出直接用，省去了重新排版的折磨。
 
 而且出来的文字没有半点口语化毛病，遣词造句非常正式规范。它的字数控制极其精准，万字长文的变化卡在1000字以内，绝不会出现暴增或暴减的惊吓。
 
-Image
+<img width="1019" height="436" alt="image" src="https://github.com/user-attachments/assets/4ab8eea7-38a5-4ddf-8079-0f43bed85c92" />
+
 定价方面也比较接地气，千字大约3元，相比动辄大几十的平台，整体性价比拉满。
 
-Image
+<img width="850" height="200" alt="image" src="https://github.com/user-attachments/assets/b68070e3-3f1c-4d72-a0f1-41e6a2a70eab" />
+
 **避坑点**：
 
 如果非要挑刺，就是遇到极个别生僻的专业术语，它会保留原词不替换，但这恰恰也是为了保证意思不跑偏。
@@ -49,7 +56,8 @@ Image
 ## 3、Kimi
 **👉 传送门**：https://kimi.moonshot.cn/
 
-Image
+<img width="1280" height="698" alt="image" src="https://github.com/user-attachments/assets/abbe45b7-10c1-4dee-a081-4c2ff6273019" />
+
 **使用体验**：
 
 能够超长文本记忆的Kimi，用来梳理长线逻辑真的很有一手。把大量的参考资料喂给它，让它帮你改写或者重组语句结构，能大幅度优化ai机器痕迹，语意连贯性很好。在寻找替换词时，它的词库储备量也足够大，能给出不少眼前一亮的平替表达。
@@ -65,7 +73,8 @@ Image
 ## 4、豆包
 **👉 传送门**：https://www.doubao.com/
 
-Image
+<img width="1280" height="741" alt="image" src="https://github.com/user-attachments/assets/1ea4ab9f-4acf-47bc-a77f-591a0158b9eb" />
+
 **使用体验**：
 
 字节出的这款工具响应速度快得离谱。如果你只是需要把一些数据罗列转化成流畅的自然段，它能极大地提升效率，是绝佳的免费降低ai率平替方案。而且界面很干净，没有乱七八糟的广告弹窗。
@@ -81,7 +90,8 @@ Image
 ## 5、茅茅虫
 **👉 传送门**：https://bing.mymmc.cn/
 
-Image
+<img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/d06140c6-d265-4ba2-be29-5898a3c3488f" />
+
 **使用体验**：
 
 主打一个轻量化，界面很清爽，操作门槛低。对于两三千字的短篇幅内容，它的分句对比功能非常直观，你可以清晰地看到系统是怎么拆解和替换你原本的句子的。哪里改了哪里没改一目了然，很适合不知道怎么降ai率的新手。
@@ -97,7 +107,8 @@ Image
 ## 6、青禾AI
 **👉 传送门**： https://check.paperqq.cn/
 
-Image
+<img width="1280" height="619" alt="image" src="https://github.com/user-attachments/assets/f656c8af-faed-4cfa-8417-eeaf61bcb39e" />
+
 **使用体验**：
 
 在专门针对ai降ai的垂直工具里，它的识别速度算得上第一梯队。上传文档后很快就能出结果，也会把重点润色优化的段落高亮标注出来，方便你二次复核。对于急需出结果的打工人来说，效率确实值得肯定。
@@ -113,7 +124,8 @@ Image
 ## 7、写作狗
 **👉 传送门**：https://www.xiezuodog.com/
 
-Image
+<img width="1280" height="710" alt="image" src="https://github.com/user-attachments/assets/f2db0ab5-ab81-404e-b1d1-2f425514bde2" />
+
 **使用体验**：
 
 兼容了多种不同的处理引擎，你可以根据自己的需求选择更偏向保守还是激进的改写策略。处理纯文本的时候，对于句式结构的调整重组做得比较自然，也能有效优化文本表达并提升原创度，作为降ai率工具算是合格的。
@@ -129,7 +141,8 @@ Image
 ## 8、火龙果写作
 **👉 传送门**：http://www.mypitaya.com
 
-Image
+<img width="1280" height="629" alt="image" src="https://github.com/user-attachments/assets/38b2e1fe-0494-44a4-9bd0-716a1a80acac" />
+
 **使用体验**：
 
 UI设计长在了我的审美点上，用起来心情很愉悦。它更像是一个进阶版的语法纠错器，在帮你修正错别字和语病的同时，顺手调整一下语序来优化文本。如果原本的底稿就写得不错，用它来锦上添花是很舒服的。
@@ -145,7 +158,8 @@ UI设计长在了我的审美点上，用起来心情很愉悦。它更像是一
 ## 9、PaperRed
 **👉 传送门**：https://www.paperred.com/
 
-Image
+<img width="1280" height="732" alt="image" src="https://github.com/user-attachments/assets/cf8402d8-1f7a-45ee-b679-7e86840d0d5e" />
+
 **使用体验**：
 
 主打性价比的一款老牌工具。在进行aigc免费降重处理时，它会提供很多同义词的备选方案，你可以自己手动点选替换，这点自主权给得还不错。界面虽然古早，但核心逻辑还算清晰。
@@ -161,7 +175,8 @@ Image
 ## 10、Essaybye
 **👉 传送门**：https://www.essaybye.cn/
 
-Image
+<img width="1115" height="618" alt="image" src="https://github.com/user-attachments/assets/9260d94f-a997-4d49-a060-bf55a19f1d25" />
+
 **使用体验**：
 
 听名字就知道，这是一款主要针对英文语境的工具。如果有需要发到外网的英文材料或者行业观察摘要，它调整出来的倒装句和被动语态非常地道，比大部分国内通用模型要自然得多，词汇的运用也很精准。
