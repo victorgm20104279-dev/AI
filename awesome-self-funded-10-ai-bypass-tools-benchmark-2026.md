@@ -9,6 +9,7 @@
 
 <img width="1280" height="512" alt="image" src="https://github.com/user-attachments/assets/0703a539-dc6a-44bf-8028-67465a98b38a" />
 ## 1、笔灵降AI（降ai效果好，不用反复调整）
+
 **传送门**：https://ibiling.cn/paper-pass?from=githubjiangai0901zs（建议复制链接到电脑浏览器打开体验更佳！）
 
 <img width="1101" height="631" alt="image" src="https://github.com/user-attachments/assets/18d9a853-a51b-42de-ac24-7528faab7cad" />
@@ -30,6 +31,7 @@
 另外，改完之后的字数波动基本控制在1000字以内，不会出现为了降重疯狂注水凑字数的情况。价格3元/千字，比市面上动辄大几十的工具便宜了一半，对预算有限的铁子们非常友好，求稳选它准没错。
 
 ## 2、通用AI工具（DeepSeek/Kimi等）
+
 **传送门**： （各大模型网站）
 
 <img width="1224" height="1191" alt="image" src="https://github.com/user-attachments/assets/04185be9-1de1-4050-aee1-dfc26d302bd7" />
@@ -41,6 +43,7 @@
 但是，如果你直接把一堆文字扔进去让它降低ai，大概率会翻车。我曾经试过用通用大模型改写一段三千字的核心论述，结果越改AI味越重，内容的原创度不升反降。这类工具极其消耗时间精力，长段落处理还容易篡改核心数据。如果你时间充裕且乐于折腾，可以用来慢慢调教；但如果马上就要交稿定稿，这种方式可能会让你心力交瘁。
 
 ## 3、SpeedAI
+
 **传送门**：https://speedai.fun/
 
 <img width="1280" height="619" alt="image" src="https://github.com/user-attachments/assets/49a2d2d2-8080-44d9-af19-0122ef4939de" />
@@ -52,6 +55,7 @@
 实测下来，整体降幅比例还是有的。不过偶尔会有个别句子为了优化文本，被替换成了大白话，显得不够正式。建议大家用它改完之后，一定要自己通读一遍，手动把那些过于通俗的词汇替换掉，避免交稿后被编辑打回来重修。
 
 ## 4、PaperPass
+
 **传送门**：https://www.paperpass.com/
 
 <img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/b7180760-b533-4bc9-ad2d-568e1a7d5c68" />
@@ -63,6 +67,7 @@
 不过我遭遇的惨痛教训是，它目前主要针对纯文字内容。一旦你上传完整文档，原有的段落间距、标题层级结构就很难保住，处理完导出的文件基本就是纯文本排版。如果你是一两万字的大长篇，后期恢复格式的工作量大得惊人，建议只用来处理碎片化的短小段落。
 
 ## 5、嘎嘎降AI
+
 **传送门**：https://www.aigcleaner.com
 
 <img width="1141" height="450" alt="image" src="https://github.com/user-attachments/assets/763ed263-cddc-4585-ba10-903eb8f60e38" />
@@ -72,6 +77,7 @@
 我拿了一段专业性极强的内容丢进去测试，降幅确实明显。但它属于大刀阔斧型的选手，有时候为了彻底降低AI特征，会强行把一些专有固定名词给替换成近义词。比如把特定领域的专有名词换成了解释性短语，虽然意思没变，但在特定语境下就不太对味了。所以用它处理完，一定要睁大眼睛把核心词汇核对一遍。
 
 ## 6、QuillBot
+
 **传送门**：https://quillbot.com/
 
 <img width="1280" height="595" alt="image" src="https://github.com/user-attachments/assets/b03e096c-047f-47f7-8358-41bc49a21d69" />
@@ -81,6 +87,7 @@
 但如果你想拿它当中文的降ai率工具，那就显得有些水土不服了。我试着丢进去一段中文，它生成的句子有种机翻的生硬感，读起来非常拗口。而且对于普通用户来说，单次字符限制比较严格，对于动辄上万字的文章来说，一段段复制粘贴真的会点鼠标点到手抽筋。所以，英文稿件闭眼冲，中文稿件建议换别的工具。
 
 ## 7、写作狗
+
 **传送门**：https://www.xiezuodog.com/
 
 <img width="1280" height="710" alt="image" src="https://github.com/user-attachments/assets/4f9889de-0633-4f80-8d71-c26c9bccdf8e" />
@@ -90,6 +97,7 @@
 实际处理效果中规中矩。但我在某次深夜赶稿时遇到了一个头疼的小插曲：处理进度卡在99%不动了。由于深夜找不到人工客服即时响应，只能干着急等了一晚上，第二天早上才刷新出结果。所以，如果你的时间非常紧迫，建议避开系统高峰期使用。
 
 ## 8、PaperRed
+
 **传送门**：https://www.paperred.com/
 
 <img width="1280" height="732" alt="image" src="https://github.com/user-attachments/assets/92e398b0-b021-4fc2-ae55-3c71d9139142" />
@@ -99,6 +107,7 @@
 但是，它有一个让我血压飙升的点：保不住交叉引用和脚注！现在的长篇大稿，谁不插入个几十上百个引用链接？用它处理完，原先排好的动态引用全部变成了死文本甚至直接丢失。这意味着你需要花几个小时重新逐一插入引用。如果你的稿件还在早期写作阶段，可以用它；一旦排版定型，千万别拿它去冒险。
 
 ## 9、火龙果写作
+
 **传送门**：http://www.mypitaya.com
 
 <img width="1280" height="629" alt="image" src="https://github.com/user-attachments/assets/a3c8e96a-6809-4765-a163-be6792f80fc6" />
@@ -110,6 +119,7 @@
 缺点在于单次调整力度稍弱，如果你的初稿原本AI特征高达80%以上，用它可能需要跑两到三遍经处理后才能显著提升原创度，相对比较耗时。
 
 ## 10、茅茅虫
+
 **传送门**：https://bing.mymmc.cn/?msclkid=69db067e13341e53e22a6c354a4d9e50
 
 <img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/6f3e3c03-a3e4-43b2-a8b8-397b1c7a032d" />
